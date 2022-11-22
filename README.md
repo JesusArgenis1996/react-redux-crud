@@ -5,7 +5,7 @@
 <h3 align="center">CRUD System React&Redux</h3>
 
   <p align="center">
-    CRUD System
+    CRUD System with react and redux and TailwindCSS for the design
     <br />
     <br />
     <br />
@@ -17,10 +17,11 @@
 ## About The Project
 A form to add a new Task
 
-<img src="image/screenshot.JPG" alt="Logo" width="100%" height="100%">
+<img src="image/form.JPG" alt="Logo" width="100%" height="100%">
 
 List of task
 
+<img src="image/screenshot.JPG" alt="Logo" width="100%" height="100%">
 
 
 
@@ -47,13 +48,13 @@ Node.js
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/JesusArgenis1996/memory-card.git
+   git clone https://github.com/JesusArgenis1996/react-redux-crud.git
    ```
 2. Install NPM packages
    ```sh
    npm install
    npm install react-router-dom@6
-   
+
 3. Install TailwindCSS
    npm install -D tailwindcss postcss autoprefixer
    npx tailwindcss init -p
