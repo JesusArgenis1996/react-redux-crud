@@ -9,7 +9,7 @@
     <br />
     <br />
     <br />
-    <a href="https://memory-card-psi.vercel.app/">View Demo</a>
+    <a href="https://react-redux-crud-2.vercel.app/">View Demo</a>
   </p>
 </div>
 
