@@ -17,11 +17,11 @@
 ## About The Project
 A form to add a new Task
 
-<img src="image/form.JPG" alt="Logo" width="100%" height="100%">
+<img src="image/form.JPG" alt="form" width="100%" height="100%">
 
 List of task
 
-<img src="image/screenshot.JPG" alt="Logo" width="100%" height="100%">
+<img src="image/list.JPG" alt="list" width="100%" height="100%">
 
 
 
