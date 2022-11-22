@@ -54,8 +54,10 @@ Node.js
    ```sh
    npm install
    npm install react-router-dom@6
+   ```
 
 3. Install TailwindCSS
+   ```sh
    npm install -D tailwindcss postcss autoprefixer
    npx tailwindcss init -p
    ```
@@ -82,7 +84,7 @@ It is a memory card game
 
 Jesus Sanchez - argenis.sanchez@uabc.edu.mx
 
-Project Link: https://github.com/JesusArgenis1996/memory-card.git
+Project Link: https://github.com/JesusArgenis1996/react-redux-crud
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
