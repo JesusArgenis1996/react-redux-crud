@@ -75,7 +75,7 @@ Node.js
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-It is a memory card game 
+Example of how to use react with redux 
 
 
 
